@@ -1,8 +1,5 @@
 # EconoMap-FIES-LFS-Analysis
 
-**Local Use:**
-Just run the final.ipynb notebook and see the results!  
-
 
 ## 📌 About the Project
 
@@ -28,7 +25,17 @@ The project was driven by pressing economic concerns such as:
 ---
 
 ## 📦 Setup Instructions
-No need for any setup, just run the jupyter notebook and enjoy
+1. Download the Project Files:
+- Download the final.ipynb notebook.
+- Download the resources folder, which contains all necessary datasets for the dashboard.
+
+2. Run the Notebook Locally:
+- Open the downloaded final.ipynb notebook using a Jupyter notebook environment such as Google Colab, VSCode, or Jupyter Notebook locally installed on your machine.
+
+3. Execute the Notebook:
+- Run the notebook cells sequentially to view and interact with the dashboard results and visualizations.
+
+That's it! Enjoy exploring the data-driven insights provided by EconoMap.
 
 ---
 
