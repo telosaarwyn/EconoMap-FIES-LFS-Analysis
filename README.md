@@ -35,6 +35,11 @@ The project was driven by pressing economic concerns such as:
 3. Execute the Notebook:
 - Run the notebook cells sequentially to view and interact with the dashboard results and visualizations.
 
+- You can open the dashboard in your browser by opening this link:
+```
+http://localhost:8051/
+```
+
 That's it! Enjoy exploring the data-driven insights provided by EconoMap.
 
 ---
