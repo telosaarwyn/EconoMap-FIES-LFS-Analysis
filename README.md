@@ -1,8 +1,5 @@
 # EconoMap-FIES-LFS-Analysis
 
-**Deployed Application:**  
-[Insert live link here]
-
 **Local Use:**
 Just run the final.ipynb notebook and see the results!  
 
@@ -31,8 +28,7 @@ The project was driven by pressing economic concerns such as:
 ---
 
 ## 📦 Setup Instructions
-
-[Insert setup instructions here]
+No need for any setup, just run the jupyter notebook and enjoy
 
 ---
 
