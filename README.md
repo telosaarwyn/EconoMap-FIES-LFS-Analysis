@@ -3,6 +3,10 @@
 **Deployed Application:**  
 [Insert live link here]
 
+**Local Use:**
+Just run the final.ipynb notebook and see the results!  
+
+
 ## 📌 About the Project
 
 **EconoMap** is a data-driven dashboard that analyzes and visualizes the income and expenditure patterns of Filipino households using the Family Income and Expenditure Survey (FIES) and supplementary data from the Labor Force Survey (LFS). This tool is designed to help **government policymakers, researchers, and economists** explore regional financial stability, income disparities, and employment trends to make more informed decisions and policy interventions.
